@@ -1,0 +1,30 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKireev79/ajs_1_2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "SergeKireev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyKireev79/ajs_1_2/issues"
+  },
+  "homepage": "https://github.com/SergeyKireev79/ajs_1_2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5"
+  },
+  "dependencies": {
+    "core-js": "^3.20.1"
+  }
+}
